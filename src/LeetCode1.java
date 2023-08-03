@@ -5,6 +5,7 @@ public class LeetCode1 {
         LeetCode1 test = new LeetCode1();
         int[] arr = new int[] { 1, 4, 5, 3 };
         System.out.println(test.twoSum(arr, 9).toString());
+        System.out.println(1 / 2);
     }
 
     public int[] twoSum(int[] nums, int target) {
